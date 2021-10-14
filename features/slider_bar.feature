@@ -1,6 +1,5 @@
 Feature: Drag and drop slider bar
 
-	 @severity=minor
 Scenario: success
 
 	Given the user navigate to drag-drop home page
