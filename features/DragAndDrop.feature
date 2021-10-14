@@ -1,6 +1,5 @@
 Feature: Drag and Drop
 
-	@severity=critical
 Scenario: Drag the rectangle in his target
 
 	Given the user navigate to drag-drop home page
