@@ -1,3 +1,4 @@
+@minor
 Feature: Drag and drop slider bar
 
 Scenario: success

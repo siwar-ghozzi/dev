@@ -1,9 +1,8 @@
-from allure import severity, severity_level
 from behave import given, when, then
 from numpy.testing import assert_equal
 import time
 
-@severity(severity_level.CRITICAL)
+
 @given(u'the user navigate to drag-drop home page')
 def step_impl(context):
     context.dd.setup('https://qavbox.github.io/demo/dragndrop/')
